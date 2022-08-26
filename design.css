@@ -20,7 +20,11 @@ button {
   border: none;
   border-radius: 4px;
   margin: 10px;
-  background-color: sandybrown;
+  background-color: turquoise;
+}
+button:hover {
+  background-color: teal;
+  color: white;
 }
 .food-container {
   margin-left: 30px;
